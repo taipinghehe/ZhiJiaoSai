@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-13T03:27:14.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="Ii9jWIJ-fdiGB1NUxpd2" version="13.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-13T03:41:21.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36" etag="COCEiGHH2F2N-7NpoSkq" version="13.2.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="3124" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <object label="虚框" id="nmj_nI3886fFNuUynjCF-1795">
@@ -146,16 +146,16 @@
           <mxGeometry x="180" y="1902" width="20" height="79" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1779" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;作业截止日期&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="410" y="375" width="150" height="60" as="geometry" />
+          <mxGeometry x="410" y="432.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1780" value="&lt;span style=&quot;letter-spacing: 0.7px ; text-align: left&quot;&gt;课程通过后为学生颁发证书&lt;/span&gt;&lt;span style=&quot;text-align: left ; letter-spacing: 0.7px&quot;&gt;&lt;br&gt;&lt;/span&gt;大勋章" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="650" y="2052" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1781" value="&lt;span style=&quot;letter-spacing: 0.7px ; text-align: left&quot;&gt;教师发布8-12分钟的h5p微课视频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="960" y="51" width="150" height="60" as="geometry" />
+          <mxGeometry x="960" y="140" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1782" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;简单小练习重复学到的    有利于掌握知识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="410" y="303.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="410" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1783" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;视频回答问题才能接着看&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="410" y="50" width="150" height="60" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="650" y="1812" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1787" value="&lt;span style=&quot;letter-spacing: 0.7px ; text-align: left&quot;&gt;教师在问答平台发布悬赏问题，回答学生的问题&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="960" y="431.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="960" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Mf3-hZXr74zlVZeuSpc-1788" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;组成线下学习小组    每周见面&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="960" y="1770" width="150" height="60" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="960" y="2591" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1781" value="&lt;span style=&quot;letter-spacing: 0.7px ; text-align: left&quot;&gt;学生依照笔记模板完成学习笔记并提交平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="156" width="150" height="60" as="geometry" />
+          <mxGeometry x="650" y="245" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1782" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;疫情通报（与我们有关）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="960" y="850" width="150" height="60" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="1510" y="3152" width="550" height="220" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1791" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;企业人员导师    任务载体    工学结合&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="51" width="150" height="60" as="geometry" />
+          <mxGeometry x="1540" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1793" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;三块屏幕    导图    中间老师讲课    平台答题评分    灵活投屏&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1710" y="1572.5" width="225" height="90" as="geometry" />
@@ -251,25 +251,25 @@
           <mxGeometry x="800" y="-180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1796" value="&lt;span style=&quot;letter-spacing: 0.7px ; text-align: left&quot;&gt;学生观看发布的h5p微课视频并在视频中答题&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="51" width="150" height="60" as="geometry" />
+          <mxGeometry x="650" y="140" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1797" value="&lt;span style=&quot;letter-spacing: 0.7px ; text-align: left&quot;&gt;教师发布微课视频填空笔记并有一两个点是视频没讲的重要的&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="960" y="156" width="150" height="60" as="geometry" />
+          <mxGeometry x="960" y="245" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ghfy4YOmroa950oPnRuk-1802" value="&lt;span style=&quot;font-size: 29px&quot;&gt;六反思&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;" parent="1" vertex="1">
           <mxGeometry x="180" y="2460" width="20" height="79" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1779" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;工程师远程沟通教材内容，新技术，行业内新动态&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="51" width="150" height="60" as="geometry" />
+          <mxGeometry x="1250" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1780" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-family: roboto, arial, sans-serif; font-size: 14px;&quot;&gt;教师在deadline后查看分析数据转可视图表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="960" y="327.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="960" y="435" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1781" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;学生在问答平台发布问题或者回答同学、老师、工程师的问题&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;回答同学的问题增加情感分&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="431.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="650" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1782" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;工程师在问答平台发布悬赏问题，回答老师和学生的问题&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="432.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="1250" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1783" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;学习笔记能看出学生学习态度，每个学生的差异，学生对于视频的理解，教师忽略的其他一些小点&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1540" y="156" width="150" height="60" as="geometry" />
@@ -284,10 +284,7 @@
           <mxGeometry x="1250" y="542.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1787" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;教师同时在钉钉发布课前学习任务&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;钉钉和课程平台双重督促&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="960" y="245" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nmj_nI3886fFNuUynjCF-1788" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;学生在钉钉和学习平台收到教师发布的任务&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="245" width="150" height="60" as="geometry" />
+          <mxGeometry x="960" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nmj_nI3886fFNuUynjCF-1801" value="&lt;span style=&quot;letter-spacing: 0.7px; text-align: left;&quot;&gt;个性化学习轨迹&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1530" y="1652" width="150" height="60" as="geometry" />
@@ -312,6 +309,12 @@
         </mxCell>
         <mxCell id="PLxwyVmpHVr_QOYRHR6i-1789" value="&lt;span style=&quot;font-size: 29px&quot;&gt;工程师&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-40" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLxwyVmpHVr_QOYRHR6i-1790" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;学生在钉钉和学习平台收到教师发布的任务&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="40" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PLxwyVmpHVr_QOYRHR6i-1792" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;letter-spacing: 0.7px&quot;&gt;老师和学生上课前都总结了任务清单，带着问题来上课&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="542.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
